@@ -1,0 +1,30 @@
+# Environment Variables (DO NOT COMMIT SECRETS)
+.env
+
+# Personal Documents & Local Files
+Hariharan-Ramesh-CV.docx
+*.docx
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Local Vector Databases & Indexes
+rag_db/
+*.faiss
+*.pkl
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,24 @@
+# Document Parsing
+pypdf
+python-docx
+docx2txt
+
+# Environment Configuration
+python-dotenv
+
+# Embeddings & Vector Search
+sentence-transformers
+faiss-cpu
+rank-bm25
+chromadb
+
+# LangChain Framework
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+openai
+
+# Jev Decision Layer
+typesafe-sdk
